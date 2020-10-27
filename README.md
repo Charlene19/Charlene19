@@ -26,4 +26,4 @@ Application Back-end support du BookShop Web :
 
 Petit programme inspiré du tuto Les Teachers du Net (Java FX) : 
 
-![Pomodoro Compteur](PortFolio/Animated GIF-downsized.gif)
+![Pomodoro Compteur](PortFolio/Animated%20GIF-downsized.gif)
