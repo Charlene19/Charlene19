@@ -19,3 +19,11 @@ Description brève des projets sur ce github.
 BookShop Web : 
 
 ![BookShop web](PortFolio/Animated%20GIF-downsized_large.gif)
+
+Application Back-end support du BookShop Web : 
+
+![BookShop Back-End](PortFolio/bACKbs.gif)
+
+Petit programme inspiré du tuto Les Teachers du Net (Java FX) : 
+
+![Pomodoro Compteur](PortFolio/Animated GIF-downsized.gif)
