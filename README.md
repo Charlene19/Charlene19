@@ -16,6 +16,14 @@ Here are some ideas to get you started:
 -->
 Description brève des projets sur ce github. 
 
+ReactJs, Site web type Portfolio : 
+
+![SarahProject](PortFolio/respInit.png)
+
+Projet N-Tiers Back (JavaFX, RestApi) : 
+
+![TImelineBac](PortFolio/accueilBack.png)
+
 BookShop Web : 
 
 ![BookShop web](PortFolio/Animated%20GIF-downsized_large.gif)
