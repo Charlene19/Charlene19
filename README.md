@@ -88,7 +88,7 @@ Le projet est en [ligne](https://charlene19.github.io/secondBrain/).
 Anki style permis progression
 Un petit tracker de progression d'apprentissage. Celui-ci est fourni avec des questions autour du permis de conduire mais les questions peuvent être modifiées pour fitter avec les besoins.
 
-![Tracker1](https://github.com/Charlene19/ankiTrack)
+![Tracker1](https://github.com/Charlene19/ankiTrack/blob/exec/track2.png)
 
 Le projet est [consultable](https://github.com/Charlene19/BookShop). 
 
