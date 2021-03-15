@@ -33,6 +33,7 @@ Here are some ideas to get you started:
     <li><a href="#Timeline Angular">Timeline Angular</a></li>
     <li><a href="#Anki Track">Anki Track</a></li>
     <li><a href="#SecondBrain">Second Brain</a></li>
+     <li><a href="#pomodoro">Pomodoro</a></li>
     <li><a href="#contact">Contact</a></li>
   </ol>
 </details>
