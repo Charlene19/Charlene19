@@ -25,15 +25,15 @@ Here are some ideas to get you started:
 <details open="open">
   <summary><h2 style="display: inline-block">Table of Contents</h2></summary>
   <ol>
- <li> <a href="#ReactJs, Site web type Portfolio">ReactJs</a> </li>
- <li><a href="#Projet N-Tiers Back (JavaFX, RestApi)">Projet N-Tiers Back (JavaFX, RestApi)</a></li> 
-    <li> <a href="#BookShop Web">BookShop Web</a></li>
-    <li><a href="#Application Back-end support du BookShop Web">Application Back-end support du BookShop Web</a></li>
-    <li><a href="#Pomodoro Compteur">Pomodoro Compteur</a></li>
-    <li><a href="#Timeline Angular">Timeline Angular</a></li>
+    <li> <a href="#tracker-type-loglife-">Tracker</a> </li>
+ <li> <a href="#reactjs-site-web-type-portfolio-">ReactJs - Site web type Portfolio</a> </li>
+ <li><a href="#projet-n-tiers-back-javafx-restapi-">Projet N-Tiers Back (JavaFX, RestApi)</a></li> 
+    <li> <a href="#bookshop-web-">BookShop Web</a></li>
+    <li><a href="#application-back-end-support-du-bookshop-web-">Application Back-end support du BookShop Web</a></li>
+    <li><a href="#timeline-angular">Timeline Angular</a></li>
     <li><a href="#Anki Track">Anki Track</a></li>
-    <li><a href="#SecondBrain">Second Brain</a></li>
-     <li><a href="#pomodoro">Pomodoro</a></li>
+    <li><a href="#secondbrain-">Second Brain</a></li>
+     <li><a href="#pomodoro-compteur-">Pomodoro</a></li>
     <li><a href="#contact">Contact</a></li>
   </ol>
 </details>
