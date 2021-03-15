@@ -28,9 +28,7 @@ Here are some ideas to get you started:
     <li><a href="#Timeline Angular">Timeline Angular</a></li>
     <li><a href="#Anki Track">Roadmap</a></li>
     <li><a href="#SecondBrain">Second Brain</a></li>
-    <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgements">À savoir</a></li>
   </ol>
 </details>
 
@@ -96,4 +94,7 @@ Le projet est [consultable](https://github.com/Charlene19/BookShop).
 
 ![Pomodoro Compteur](PortFolio/Animated%20GIF-downsized.gif)
 
+## Contact
+
+[Via mon site web](https://charlene19.github.io/). 
 
