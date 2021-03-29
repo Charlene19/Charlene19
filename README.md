@@ -54,7 +54,7 @@ Application de back-end d'une librairie en ligne. Persistance de données avec J
 
 ![TImelineBac](PortFolio/accueilBack.png)
 
-Le projet est [consultable](https://github.com/Charlene19/BookShop). 
+Le projet est [consultable](https://github.com/cda2006-314/java-fx-template). 
 
 ## Timeline Angular
 
