@@ -44,7 +44,7 @@ Here are some ideas to get you started:
 
 ## ReactJs, Site web type Portfolio : 
 
-Un site type portfolio pour une photographe. Le projet est [consultable](https://github.com/Charlene19/sarahProject/edit/master/README.md). Il est aussi déployé : [Sarah Trioullier](https://www.sarahtrioullier.com)
+Un site type portfolio pour une photographe. Le projet est [consultable](https://github.com/Charlene19/sarahProject). Il est aussi déployé : [Sarah Trioullier](https://www.sarahtrioullier.com)
 
 ![SarahProject](PortFolio/respInit.png)
 
